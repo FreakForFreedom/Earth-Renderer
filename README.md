@@ -1,7 +1,9 @@
 # Earth-Renderer
 This is a little earth renderer I coded for my Bachelor's thesis using C# and OpenGL.
 
-![screenshot](http://notenoughsleep.eu/files/screenshots/ba/13.png)
+![screenshot](http://notenoughsleep.eu/files/screenshots/ba/18.png)
+![screenshot](http://notenoughsleep.eu/files/screenshots/ba/19.png)
+![screenshot](http://notenoughsleep.eu/files/screenshots/ba/20.png)
 
 ## License
 
