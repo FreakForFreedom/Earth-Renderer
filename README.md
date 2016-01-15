@@ -1,5 +1,5 @@
 # Earth-Renderer
-This is a little earth renderer I coded for my Bachelor's thesis using C# and OpenGL.
+This is a little earth renderer I coded for my Bachelor's thesis using C#, OpenGL and an adapted version of geomipmapping.
 
 ![screenshot](http://notenoughsleep.eu/files/screenshots/ba/18.png)
 ![screenshot](http://notenoughsleep.eu/files/screenshots/ba/19.png)
